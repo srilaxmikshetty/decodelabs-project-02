@@ -1,0 +1,8 @@
+{
+  "name": "decodelabs-project-2-backend-api",
+  "version": "1.0.0",
+  "description": "DecodeLabs Project 2 - RESTful Backend API for Users",
+  "main": "src/server.js",
+  "scripts": { "start": "node src/server.js", "test": "node --test" },
+  "engines": { "node": ">=18" }
+}
